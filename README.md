@@ -1,7 +1,7 @@
 Nanolook
 ===============
 
-![Random photo from my demos opened in nanolook.](https://github.com/nekowabo/nanolook/assets/150674202/8e27ff00-5f8a-44ba-971b-432fc336096f)
+![definitely not a meme.](https://github.com/nekowabo/nanolook/assets/150674202/8e27ff00-5f8a-44ba-971b-432fc336096f)
 _Random photo from my demos opened in nanolook._
 
 Made it just for fun in windows notepad and compiled using built-in windows csc.  
