@@ -6,7 +6,7 @@ _Random photo from my demos opened in nanolook._
 
 Made it just for fun in windows notepad and compiled using built-in windows csc.  
 This is a photo viewer with as little code as possible in C#(not sure).  
-Written in C#, the source code weighs 349 bytes. Compressed as hell.   
+Written in C#, the source code weighs 293 bytes. Compressed as hell.   
 
 ### You can download compiled program from releases.  
 
@@ -29,3 +29,9 @@ Written in C#, the source code weighs 349 bytes. Compressed as hell.
 - Doesn't has all functions that other have.
 - You can't open a photo in the program itself.
 - Not recommended as permanent.
+
+### History:
+0.1 - ~800 bytes i don't remember
+0.2 - ~450 bytes
+1.0 - 349 bytes
+1.1 - 293 bytes
