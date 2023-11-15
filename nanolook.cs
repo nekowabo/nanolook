@@ -1,0 +1,1 @@
+using System.Windows.Forms;using System.Drawing;class a{static void Main(string[] v){if(v.Length>0){var s=v[0];var i=Image.FromFile(s);var t=new Form(){Width=800,Height=450,BackColor=Color.Black,Text=i.Width+"*"+i.Height+" • "+s};t.Controls.Add(new PictureBox(){Image=i,Dock=DockStyle.Fill,SizeMode=PictureBoxSizeMode.Zoom});Application.Run(t);}}}
