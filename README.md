@@ -31,7 +31,7 @@ Written in C#, the source code weighs 293 bytes. Compressed as hell.
 - Not recommended as permanent.
 
 ### History:
-0.1 - ~800 bytes i don't remember
-0.2 - ~450 bytes
-1.0 - 349 bytes
-1.1 - 293 bytes
+0.1 - ~800 bytes i don't remember  
+0.2 - ~450 bytes  
+1.0 - 349 bytes  
+1.1 - 293 bytes  
