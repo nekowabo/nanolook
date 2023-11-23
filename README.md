@@ -12,10 +12,10 @@ Written in C#, the source code weighs 293 bytes. Compressed as hell.
 
 ### How to use:
 - Drag'n'Drop file into the program.
-- From cmd => nanolook.exe [PATH/TO/FILE].
+- From cmd, nanolook.exe [PATH/TO/FILE].
 - As you wish.
   
-### YOU CAN'T OPEN A PHOTO IN THE PROGRAM ITSELF!!!(it crashes lol)
+### YOU CAN'T OPEN A PHOTO IN THE PROGRAM ITSELF!!!(not implemented for shorter code)
 
 ### Has such functions as:
 - Opens photos (incredible)!!!
